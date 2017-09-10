@@ -3735,7 +3735,7 @@ msgstr ""
 
 #: ../phpmyadmin/doc/config.rst:1133
 msgid "Since release 4.5.0 you can save and load export templates."
-msgstr ""
+msgstr "Sejak dirilisnya versi 4.5.0 anda bisa menyimpan dan membuka template- template yang diekspor"
 
 #: ../phpmyadmin/doc/config.rst:1138
 msgid ""
@@ -3753,7 +3753,7 @@ msgstr ""
 
 #: ../phpmyadmin/doc/config.rst:1155
 msgid "The creation of a version has two effects:"
-msgstr ""
+msgstr "Kreasi dari sebuah versi memiliki dua efek:"
 
 #: ../phpmyadmin/doc/config.rst:1157
 msgid ""
@@ -8939,7 +8939,7 @@ msgstr ""
 
 #: ../phpmyadmin/doc/faq.rst:574
 msgid "To further improve security, we also recommend these modifications:"
-msgstr ""
+msgstr "untuk pengembangan keamanan lebih lanjut, kami merekomendasikan modifikasi- modifikasi berikut:"
 
 #: ../phpmyadmin/doc/faq.rst:576
 msgid ""
@@ -8965,7 +8965,8 @@ msgstr ""
 msgid ""
 "You can also disable the warning using the :config:option:`"
 "$cfg['SuhosinDisableWarning']`."
-msgstr ""
+msgstr "Anda juga bisa menonaktifkan peringatan menggunakan :config:option:`"
+"$cfg['SuhosinDisableWarning']`. " "
 
 #: ../phpmyadmin/doc/faq.rst:590
 msgid ""
@@ -9000,7 +9001,7 @@ msgstr ""
 msgid ""
 "To be able to use cookie auth Apache must know that it has to rewrite the "
 "set-cookie headers. Example from the Apache 2.2 documentation:"
-msgstr ""
+msgstr " "
 
 #: ../phpmyadmin/doc/faq.rst:617
 msgid ""
@@ -9019,7 +9020,7 @@ msgstr ""
 msgid ""
 "1.41 When I view a database and ask to see its privileges, I get an error "
 "about an unknown column."
-msgstr ""
+msgstr "Ketika aku membuka sebuah database dan meminta untuk melihat hak- haknya, aku mendapat sebuah eror "Tentang sebuah kolum yang tidak diketahui" "
 
 #: ../phpmyadmin/doc/faq.rst:635
 msgid ""
@@ -9029,7 +9030,7 @@ msgstr ""
 
 #: ../phpmyadmin/doc/faq.rst:641
 msgid "1.42 How can I prevent robots from accessing phpMyAdmin?"
-msgstr ""
+msgstr "1.42 bagaimana cara saya bisa mencegah robto mengakses phpMyAdmin?"
 
 #: ../phpmyadmin/doc/faq.rst:643
 msgid ""
